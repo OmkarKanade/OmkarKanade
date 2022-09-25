@@ -8,7 +8,7 @@
 </p>
 <br>
 
-<img align ="right" src = "anim.gif" style="border-radius:30%" width="300" height="300">
+<img align ="right" src = "anim.gif" style="border-radius:50%" width="300" height="300">
 
 <h2><img src="svg/idcard.svg" height="20"> About Me</h2> 
 - 💻 I’m currently Student at MITAOE, Alandi<br>
