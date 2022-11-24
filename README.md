@@ -1,5 +1,5 @@
 #
-# <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Recursive&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Omkar+Kanade;I'm+an+Engineer+By+Profession)](https://git.io/typing-svg)</div>
+# <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Recursive&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Omkar+Kanade;I'm+Learning+Programming)](https://git.io/typing-svg)</div>
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
