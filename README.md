@@ -13,10 +13,9 @@
 <img align ="right" src = "anim.gif" style="border-radius:30%" width="300" height="300">
 
 <h2><img src="https://www.svgrepo.com/show/301040/id-card-accreditation.svg" height="20"> About Me</h2> 
-- 💻 I'm currently a final year student at MITAOE, Alandi.<br/>
-- 📚 Pursuing a degree in Computer Engineering.<br/>
+- 💻 Graduated from MITAOE, Alandi, with a degree in Computer Engineering.<br/>
 - 🌐 Passionate about Web Development, Database Management, Java, and Python.<br/>
-- 🔭 Actively seeking internship opportunities to apply and enhance my skills.<br/>
+- 🔭 Actively seeking opportunities to apply and enhance my skills while contributing to impactful projects.<br/>
 - 📫 How to reach me: omkarkanade8888@gmail.com<br>
 </br>
 
