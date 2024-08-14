@@ -51,7 +51,7 @@
 <h2><img src="https://www.svgrepo.com/show/418866/education-internet-school.svg" height="25"> Educations</h2>
 
 - [Diploma in Computer Engineering](https://www.gpawasari.ac.in/) @ Government Polytechnic Awasari(Kh), Pune (2018-2021)
-- [B.Tech in Computer Engineering](https://mitaoe.ac.in/) @ MIT Academy of Engineering Alandi, Pune (Ongoing)
+- [B.Tech in Computer Engineering](https://mitaoe.ac.in/) @ MIT Academy of Engineering Alandi, Pune (2021-2024)
 
 <br>
 <h2><img src="https://www.svgrepo.com/show/382159/certificates-education-learning-medal-school-study.svg" height="25"> Certifications</h2>
