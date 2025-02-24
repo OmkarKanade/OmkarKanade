@@ -19,33 +19,32 @@
 - 📫 How to reach me: omkarkanade8888@gmail.com<br>
 </br>
 
-## <img src="https://www.svgrepo.com/show/245847/code.svg" height="25"> Languages
+## <img src="https://www.svgrepo.com/show/245847/code.svg" height="25"> Programming Languages
 <p align="left">
   <img src="https://omkarkanade.vercel.app/assets/icons/c++_logo.svg" alt="C++" width="48" height="48">
-  <img src="https://omkarkanade.vercel.app/assets/icons/python-svgrepo-com.svg" alt="Python" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/java-svgrepo-com.svg" alt="Java" width="48" height="48">
-  <img src="https://omkarkanade.vercel.app/assets/icons/dart-svgrepo-com.svg" alt="Dart" width="48" height="48">
-</p>
-
-## <img src="https://www.svgrepo.com/show/184280/palette-art.svg" height="25"> Frontend  
-<p align="left">
   <img src="https://omkarkanade.vercel.app/assets/icons/html-5-svgrepo-com.svg" alt="HTML" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/css-3-svgrepo-com.svg" alt="CSS" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/javascript-color.svg" alt="JavaScript" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/python-svgrepo-com.svg" alt="Python" width="48" height="48">
+  <img src="https://omkarkanade.vercel.app/assets/icons/dart-svgrepo-com.svg" alt="Dart" width="48" height="48">
+</p>
+
+## <img src="https://www.svgrepo.com/show/184280/palette-art.svg" height="25"> Frontend Frameworks
+<p align="left">
   <img src="https://omkarkanade.vercel.app/assets/icons/tailwind-svgrepo-com.svg" alt="Tailwind" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/react-svgrepo-com.svg" alt="React" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/next-js-svgrepo-com.svg" alt="Next.js" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/streamlit-seeklogo.com.svg" alt="Streamlit" width="48" height="48">
 </p>
 
-## <img src="https://www.svgrepo.com/show/299227/server-data.svg" height="25"> Backend  
+## <img src="https://www.svgrepo.com/show/299227/server-data.svg" height="25"> Backend Frameworks & Databases
 <p align="left">
-  <img src="https://omkarkanade.vercel.app/assets/icons/php-svgrepo-com.svg" alt="PHP" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/node-js-svgrepo-com.svg" alt="Node.js" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/express-js-svgrepo-com.svg" alt="Express.js" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/spring-icon-svgrepo-com.svg" alt="Spring Boot" width="48" height="48">
-  <img src="https://omkarkanade.vercel.app/assets/icons/dotnet-svgrepo-com.svg" alt="ASP.NET" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/mysql-logo-svgrepo-com.svg" alt="MySQL" width="48" height="48">
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/mongo-svgrepo-com.svg" alt="MongoDB" width="48" height="48">
   <img src="https://omkarkanade.vercel.app/assets/icons/firebase-svgrepo-com.svg" alt="Firebase" width="48" height="48">
 </p>
